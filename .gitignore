@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Exclude raw dataset folders
+data/
+Resume/
+resume_folder/
+
+# Exclude local database
+candidates.json
